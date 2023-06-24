@@ -166,7 +166,7 @@ table td {
   padding: 5px 10px;
 }
 table tr:nth-child(2n) {
-  background: #f7f8f8;
+  background: #2997eb;
 }
 
 hr {
@@ -3042,14 +3042,14 @@ a.fancybox {
   }
   .postShorten.postShorten--thumbnailimg-right .postShorten-thumbnailimg img {
     display: block;
-    width: 140px;
-    height: 140px;
+    width: 280px;
+    height: 280px;
     object-fit: cover;
     overflow: hidden;
   }
   .postShorten.postShorten--thumbnailimg-right .postShorten-wrap {
     float: left;
-    width: calc(100% - 140px - 20px);
+    width: calc(100% - 280px - 20px);
   }
 
   .postShorten.postShorten--thumbnailimg-left .postShorten-thumbnailimg {
@@ -3058,14 +3058,14 @@ a.fancybox {
   }
   .postShorten.postShorten--thumbnailimg-left .postShorten-thumbnailimg img {
     display: block;
-    width: 140px;
-    height: 140px;
+    width: 280px;
+    height: 280px;
     object-fit: cover;
     overflow: hidden;
   }
   .postShorten.postShorten--thumbnailimg-left .postShorten-wrap {
     float: right;
-    width: calc(100% - 140px - 20px);
+    width: calc(100% - 280px - 20px);
   }
 
   .postShorten.postShorten--thumbnailimg-top .postShorten-thumbnailimg {
@@ -3088,7 +3088,7 @@ a.fancybox {
   .postShorten.postShorten--thumbnailimg-bottom .postShorten-thumbnailimg img {
     width: 100%;
     height: auto;
-    max-height: 250px;
+    max-height: 500px;
     object-fit: cover;
   }
 }
