@@ -2,44 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Triathlon Saint Maur</title>
-    <link>https://triathlon-saint-maur.github.io/categories/</link>
+    <link>https://www.triathlon-saint-maur.fr/categories/</link>
     <description>Recent content in Categories on Triathlon Saint Maur</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 25 Jun 2023 18:27:16 +0200</lastBuildDate><atom:link href="https://triathlon-saint-maur.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 25 Jun 2023 18:27:16 +0200</lastBuildDate><atom:link href="https://www.triathlon-saint-maur.fr/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Club</title>
-      <link>https://triathlon-saint-maur.github.io/categories/club/</link>
+      <link>https://www.triathlon-saint-maur.fr/categories/club/</link>
       <pubDate>Sun, 25 Jun 2023 18:27:16 +0200</pubDate>
       
-      <guid>https://triathlon-saint-maur.github.io/categories/club/</guid>
+      <guid>https://www.triathlon-saint-maur.fr/categories/club/</guid>
       <description></description>
     </item>
     
     <item>
       <title>contact</title>
-      <link>https://triathlon-saint-maur.github.io/categories/contact/</link>
+      <link>https://www.triathlon-saint-maur.fr/categories/contact/</link>
       <pubDate>Mon, 12 Jun 2023 22:31:24 +0200</pubDate>
       
-      <guid>https://triathlon-saint-maur.github.io/categories/contact/</guid>
+      <guid>https://www.triathlon-saint-maur.fr/categories/contact/</guid>
       <description></description>
     </item>
     
     <item>
       <title>category</title>
-      <link>https://triathlon-saint-maur.github.io/categories/category/</link>
+      <link>https://www.triathlon-saint-maur.fr/categories/category/</link>
       <pubDate>Mon, 12 Jun 2023 08:45:41 +0200</pubDate>
       
-      <guid>https://triathlon-saint-maur.github.io/categories/category/</guid>
+      <guid>https://www.triathlon-saint-maur.fr/categories/category/</guid>
       <description></description>
     </item>
     
     <item>
       <title>subcategory</title>
-      <link>https://triathlon-saint-maur.github.io/categories/subcategory/</link>
+      <link>https://www.triathlon-saint-maur.fr/categories/subcategory/</link>
       <pubDate>Mon, 12 Jun 2023 08:45:41 +0200</pubDate>
       
-      <guid>https://triathlon-saint-maur.github.io/categories/subcategory/</guid>
+      <guid>https://www.triathlon-saint-maur.fr/categories/subcategory/</guid>
       <description></description>
     </item>
     
