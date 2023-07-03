@@ -3027,12 +3027,36 @@ a.fancybox {
   margin-top: 25px;
 }
 
+/*@media only screen and (max-width : 479px) {
+    .postShorten {
+        .postShorten-thumbnailimg {
+            display: none;
+
+            img {
+                display: none;
+            }
+        }
+    }
+}*/
 @media only screen and (max-width : 479px) {
+  .postShorten .postShorten-wrap {
+    display: block;
+    width: 100%;
+  }
+  .postShorten .postShorten-excerpt > p {
+    margin-bottom: 0;
+  }
   .postShorten .postShorten-thumbnailimg {
-    display: none;
+    display: block;
+    width: 100%;
+    overflow: hidden;
+    margin: 15px 0 15px 0;
   }
   .postShorten .postShorten-thumbnailimg img {
-    display: none;
+    width: 100%;
+    height: auto;
+    max-height: 500px;
+    object-fit: cover;
   }
 }
 @media only screen and (min-width : 480px) {
