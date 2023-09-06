@@ -26,20 +26,29 @@
     </item>
     
     <item>
-      <title>tag1</title>
-      <link>https://www.triathlon-saint-maur.fr/tags/tag1/</link>
+      <title>bdm</title>
+      <link>https://www.triathlon-saint-maur.fr/tags/bdm/</link>
       <pubDate>Mon, 12 Jun 2023 08:45:41 +0200</pubDate>
       
-      <guid>https://www.triathlon-saint-maur.fr/tags/tag1/</guid>
+      <guid>https://www.triathlon-saint-maur.fr/tags/bdm/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>tag2</title>
-      <link>https://www.triathlon-saint-maur.fr/tags/tag2/</link>
+      <title>choisy</title>
+      <link>https://www.triathlon-saint-maur.fr/tags/choisy/</link>
       <pubDate>Mon, 12 Jun 2023 08:45:41 +0200</pubDate>
       
-      <guid>https://www.triathlon-saint-maur.fr/tags/tag2/</guid>
+      <guid>https://www.triathlon-saint-maur.fr/tags/choisy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>entrainements</title>
+      <link>https://www.triathlon-saint-maur.fr/tags/entrainements/</link>
+      <pubDate>Mon, 12 Jun 2023 08:45:41 +0200</pubDate>
+      
+      <guid>https://www.triathlon-saint-maur.fr/tags/entrainements/</guid>
       <description></description>
     </item>
     
