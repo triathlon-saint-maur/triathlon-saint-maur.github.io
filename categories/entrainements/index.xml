@@ -1,25 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>entrainements on Triathlon Saint Maur</title>
-    <link>https://www.triathlon-saint-maur.fr/categories/entrainements/</link>
-    <description>Recent content in entrainements on Triathlon Saint Maur</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 12 Jun 2023 08:45:41 +0200</lastBuildDate><atom:link href="https://www.triathlon-saint-maur.fr/categories/entrainements/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Entrainements</title>
-      <link>https://www.triathlon-saint-maur.fr/page/entrainements/</link>
-      <pubDate>Mon, 12 Jun 2023 08:45:41 +0200</pubDate>
-      
-      <guid>https://www.triathlon-saint-maur.fr/page/entrainements/</guid>
-      <description>Natation Piscine Brossolette : Horaires réservées au TSM avec entraîneur de natation
-Mardi de 13h00 à 14h15 Jeudi de 13h30 à 14h15 Vendredi de 20h30 à 21h45 Natation à la base de Choisy d&amp;rsquo;Avril à Octobre :
-Lundi de 18h30 à 20h Mercredi de 18h30 à 20h Samedi de 9h à 11h https://triathlon94.fr/ses-actions/choisy-nage-eau-libre-triathlon/
-S&amp;rsquo;enregistrer :
-https://triathlon94.fr/se-declarer-present-a-choisy/
-Course à pied Le mardi et jeudi soir sur le bord de Marne à 19h Point GPS Jeudi</description>
-    </item>
-    
-  </channel>
+	<channel>
+		<title>Entrainements on Triathlon Saint Maur</title>
+		<link>https://www.triathlon-saint-maur.fr/categories/entrainements/</link>
+		<description>Recent content in Entrainements on Triathlon Saint Maur</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Mon, 12 Jun 2023 08:45:41 +0200</lastBuildDate>
+		
+			<atom:link href="https://www.triathlon-saint-maur.fr/categories/entrainements/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Entrainements</title>
+				<link>https://www.triathlon-saint-maur.fr/page/entrainements/</link>
+				<pubDate>Mon, 12 Jun 2023 08:45:41 +0200</pubDate>
+				<guid>https://www.triathlon-saint-maur.fr/page/entrainements/</guid>
+				<description>&lt;h1 id=&#34;natation&#34;&gt;Natation&lt;/h1&gt;&#xA;&lt;p&gt;Piscine Brossolette :&#xA;Horaires réservées au TSM avec entraîneur de natation&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Lundi de 20h30 à 21h30&lt;/li&gt;&#xA;&lt;li&gt;Mardi de 13h00 à 14h15&lt;/li&gt;&#xA;&lt;li&gt;Jeudi de 13h00 à 14h15&lt;/li&gt;&#xA;&lt;li&gt;Vendredi de 20h30 à 21h30&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Natation à la base de Choisy d&amp;rsquo;Avril à Octobre :&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Lundi de 18h30 à 20h&lt;/li&gt;&#xA;&lt;li&gt;Mercredi de 18h30 à 20h&lt;/li&gt;&#xA;&lt;li&gt;Samedi de 9h à 11h&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://triathlon94.fr/ses-actions/choisy-nage-eau-libre-triathlon/&#34;&gt;https://triathlon94.fr/ses-actions/choisy-nage-eau-libre-triathlon/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;S&amp;rsquo;enregistrer :&lt;br&gt;&#xA;&lt;a href=&#34;https://triathlon94.fr/se-declarer-present-a-choisy/&#34;&gt;https://triathlon94.fr/se-declarer-present-a-choisy/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;course-à-pied&#34;&gt;Course à pied&lt;/h1&gt;&#xA;&lt;p&gt;Le mardi et jeudi soir sur le bord de Marne à 19h &lt;a href=&#34;https://maps.app.goo.gl/tKsYfGKwbgsDmMmbA&#34; title=&#34;lieu du rendez-vous&#34;&gt;Point GPS Jeudi&lt;/a&gt;&lt;br&gt;&#xA;Le mardi et jeudi matin sur le bord de Marne à 6h &lt;a href=&#34;https://goo.gl/maps/uai2kERXawkNfHxT9&#34; title=&#34;lieu du rendez-vous 2&#34;&gt;Point GPS Mardi et Jeudi&lt;/a&gt;&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

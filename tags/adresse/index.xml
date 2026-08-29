@@ -1,22 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>adresse on Triathlon Saint Maur</title>
-    <link>https://www.triathlon-saint-maur.fr/tags/adresse/</link>
-    <description>Recent content in adresse on Triathlon Saint Maur</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 12 Jun 2023 22:31:24 +0200</lastBuildDate><atom:link href="https://www.triathlon-saint-maur.fr/tags/adresse/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Contacts</title>
-      <link>https://www.triathlon-saint-maur.fr/page/contacts/</link>
-      <pubDate>Mon, 12 Jun 2023 22:31:24 +0200</pubDate>
-      
-      <guid>https://www.triathlon-saint-maur.fr/page/contacts/</guid>
-      <description>Club de Triathlon de Saint Maur des fossés (94100). Club familial, participatif et collaboratif
-Formulaire Lien vers le formulaire de contact
-Prenom et Nom* Tel Mobile* Email* Date de naissance Comment tu nous a connu ?* --Please choose an option-- Affiche à la piscine de Saint Maur Facebook Instagram Bouche à oreille Un adhérent du club Site de la FFTRI Site de la Ligue Ile de France de Triathlon Site du Comité Départemental 94 du Triathlon Journée des associations Autre Question* Peux tu te présenter, ce que tu cherches, ton expérience triathlon (débutant, expert), etc.</description>
-    </item>
-    
-  </channel>
+	<channel>
+		<title>Adresse on Triathlon Saint Maur</title>
+		<link>https://www.triathlon-saint-maur.fr/tags/adresse/</link>
+		<description>Recent content in Adresse on Triathlon Saint Maur</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Mon, 12 Jun 2023 22:31:24 +0200</lastBuildDate>
+		
+			<atom:link href="https://www.triathlon-saint-maur.fr/tags/adresse/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Contacts</title>
+				<link>https://www.triathlon-saint-maur.fr/page/contacts/</link>
+				<pubDate>Mon, 12 Jun 2023 22:31:24 +0200</pubDate>
+				<guid>https://www.triathlon-saint-maur.fr/page/contacts/</guid>
+				<description>&lt;p&gt;Club de Triathlon de Saint Maur des fossés (94100). Club familial, participatif et collaboratif&lt;/p&gt;&#xA;&lt;h1 id=&#34;formulaire&#34;&gt;Formulaire&lt;/h1&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://docs.google.com/forms/d/e/1FAIpQLSd-yIt9w9WCwCJq3JvsQkcwzgf1w9_gMC1c_dpXgWRx4qR-og/formResponse&#34;&gt;Lien vers le formulaire de contact&lt;/a&gt;&lt;/p&gt;&#xA;&#xA;&#xA;&#xA;&lt;form action=&#34;https://docs.google.com/forms/d/e/1FAIpQLSd-yIt9w9WCwCJq3JvsQkcwzgf1w9_gMC1c_dpXgWRx4qR-og/formResponse&#34; method=&#34;post&#34; target=&#34;hidden_iframe&#34; onsubmit=&#34;submitted=true&#34;&gt;&#xA;  &lt;table class=&#34;&#34;&gt;&#xA;    &lt;tr&gt;&#xA;      &lt;td&gt;&#xA;        &lt;label&gt;Prenom et Nom*&lt;/label&gt;&#xA;      &lt;/td&gt;&#xA;      &lt;td&gt;&#xA;        &lt;input type=&#34;text&#34; placeholder=&#34;Prénom et Nom*&#34; class=&#34;form-input&#34; name=&#34;entry.379104567&#34; required&gt;&#xA;      &lt;/td&gt;&#xA;    &lt;/tr&gt;&#xA;    &lt;tr&gt;&#xA;      &lt;td&gt;&#xA;        &lt;label&gt;Tel Mobile*&lt;/label&gt;&#xA;      &lt;/td&gt;&#xA;      &lt;td&gt;&#xA;        &lt;input type=&#34;tel&#34; placeholder=&#34;Tel Mobile*&#34; class=&#34;form-input&#34; name=&#34;entry.123029176&#34; required&gt;&#xA;      &lt;/td&gt;&#xA;    &lt;/tr&gt;&#xA;    &lt;tr&gt;&#xA;      &lt;td&gt;&#xA;        &lt;label&gt;Email*&lt;/label&gt;        &#xA;      &lt;/td&gt;&#xA;      &lt;td&gt;&#xA;        &lt;input type=&#34;email&#34; placeholder=&#34;Email*&#34; class=&#34;form-input&#34; name=&#34;entry.2065095175&#34; required&gt;        &#xA;      &lt;/td&gt;&#xA;    &lt;/tr&gt;&#xA;    &lt;tr&gt;&#xA;      &lt;td&gt;&#xA;        &lt;label&gt;Date de naissance&lt;/label&gt;        &#xA;      &lt;/td&gt;&#xA;      &lt;td&gt;&#xA;        &lt;input size=&#34;2&#34; type=&#34;text&#34; placeholder=&#34;day*&#34; class=&#34;form-input&#34; name=&#34;entry.1833306240_day&#34; required&gt;&#xA;        &lt;input size=&#34;3&#34; type=&#34;text&#34; placeholder=&#34;month*&#34; class=&#34;form-input&#34; name=&#34;entry.1833306240_month&#34; required&gt;&#xA;        &lt;input size=&#34;4&#34; type=&#34;text&#34; placeholder=&#34;year*&#34; class=&#34;form-input&#34; name=&#34;entry.1833306240_year&#34; required&gt;&#xA;      &lt;/td&gt;&#xA;    &lt;/tr&gt;&#xA;    &lt;tr&gt;&#xA;      &lt;td&gt;&#xA;        &lt;label&gt;Comment tu nous a connu ?*&lt;/label&gt;        &#xA;      &lt;/td&gt;&#xA;      &lt;td&gt;&#xA;        &lt;select id=&#34;connu&#34; name=&#34;entry.854140982&#34;&gt;&#xA;          &lt;option selected value=&#34;&#34;&gt;--Please choose an option--&lt;/option&gt;&#xA;          &lt;option value=&#34;Affiche à la piscine de Saint Maur&#34;&gt;Affiche à la piscine de Saint Maur&lt;/option&gt;&#xA;          &lt;option value=&#34;Facebook&#34;&gt;Facebook&lt;/option&gt;&#xA;          &lt;option value=&#34;Instagram&#34;&gt;Instagram&lt;/option&gt;&#xA;          &lt;option value=&#34;Bouche à oreille&#34;&gt;Bouche à oreille&lt;/option&gt;&#xA;          &lt;option value=&#34;Un adhérent du club&#34;&gt;Un adhérent du club&lt;/option&gt;&#xA;          &lt;option value=&#34;Site de la FFTRI&#34;&gt;Site de la FFTRI&lt;/option&gt;&#xA;          &lt;option value=&#34;Site de la Ligue Ile de France de Triathlon&#34;&gt;Site de la Ligue Ile de France de Triathlon&lt;/option&gt;&#xA;          &lt;option value=&#34;Site du Comité Départemental 94 du Triathlon&#34;&gt;Site du Comité Départemental 94 du Triathlon&lt;/option&gt;&#xA;          &lt;option value=&#34;Journée des associations&#34;&gt;Journée des associations&lt;/option&gt;&#xA;          &lt;option value=&#34;Autre&#34;&gt;Autre&lt;/option&gt;&#xA;        &lt;/select&gt;        &#xA;      &lt;/td&gt;&#xA;    &lt;/tr&gt;&#xA;    &lt;tr&gt;&#xA;      &lt;td&gt;&#xA;        &lt;label&gt;Question*&lt;/label&gt;        &#xA;      &lt;/td&gt;&#xA;      &lt;td&gt;&#xA;        Peux tu te présenter, ce que tu cherches, ton expérience triathlon (débutant, expert), etc.  &#xA;        &lt;br&gt;&#xA;        &lt;textarea rows=&#34;5&#34; cols=&#34;50&#34; placeholder=&#34;Question*&#34; class=&#34;form-input&#34; name=&#34;entry.980781731&#34; &gt;&lt;/textarea&gt;        &#xA;      &lt;/td&gt;&#xA;    &lt;/tr&gt;&#xA;    &lt;tr&gt;&#xA;      &lt;td&gt;&#xA;      &lt;/td&gt;&#xA;      &lt;td&gt;&#xA;        &lt;button type=&#34;submit&#34;&gt;Send&lt;/button&gt;&#xA;      &lt;/td&gt;&#xA;    &lt;/tr&gt;&#xA;  &lt;/table&gt;&#xA;&lt;/form&gt;</description>
+			</item>
+	</channel>
 </rss>
