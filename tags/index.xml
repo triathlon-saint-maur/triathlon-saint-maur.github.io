@@ -1,56 +1,52 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Tags on Triathlon Saint Maur</title>
-    <link>https://www.triathlon-saint-maur.fr/tags/</link>
-    <description>Recent content in Tags on Triathlon Saint Maur</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 25 Jun 2023 18:27:16 +0200</lastBuildDate><atom:link href="https://www.triathlon-saint-maur.fr/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>TSM</title>
-      <link>https://www.triathlon-saint-maur.fr/tags/tsm/</link>
-      <pubDate>Sun, 25 Jun 2023 18:27:16 +0200</pubDate>
-      
-      <guid>https://www.triathlon-saint-maur.fr/tags/tsm/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>adresse</title>
-      <link>https://www.triathlon-saint-maur.fr/tags/adresse/</link>
-      <pubDate>Mon, 12 Jun 2023 22:31:24 +0200</pubDate>
-      
-      <guid>https://www.triathlon-saint-maur.fr/tags/adresse/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>bdm</title>
-      <link>https://www.triathlon-saint-maur.fr/tags/bdm/</link>
-      <pubDate>Mon, 12 Jun 2023 08:45:41 +0200</pubDate>
-      
-      <guid>https://www.triathlon-saint-maur.fr/tags/bdm/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>choisy</title>
-      <link>https://www.triathlon-saint-maur.fr/tags/choisy/</link>
-      <pubDate>Mon, 12 Jun 2023 08:45:41 +0200</pubDate>
-      
-      <guid>https://www.triathlon-saint-maur.fr/tags/choisy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>entrainements</title>
-      <link>https://www.triathlon-saint-maur.fr/tags/entrainements/</link>
-      <pubDate>Mon, 12 Jun 2023 08:45:41 +0200</pubDate>
-      
-      <guid>https://www.triathlon-saint-maur.fr/tags/entrainements/</guid>
-      <description></description>
-    </item>
-    
-  </channel>
+	<channel>
+		<title>Tags on Triathlon Saint Maur</title>
+		<link>https://www.triathlon-saint-maur.fr/tags/</link>
+		<description>Recent content in Tags on Triathlon Saint Maur</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Sun, 25 Jun 2023 18:27:16 +0200</lastBuildDate>
+		
+			<atom:link href="https://www.triathlon-saint-maur.fr/tags/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>TSM</title>
+				<link>https://www.triathlon-saint-maur.fr/tags/tsm/</link>
+				<pubDate>Sun, 25 Jun 2023 18:27:16 +0200</pubDate>
+				<guid>https://www.triathlon-saint-maur.fr/tags/tsm/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Adresse</title>
+				<link>https://www.triathlon-saint-maur.fr/tags/adresse/</link>
+				<pubDate>Mon, 12 Jun 2023 22:31:24 +0200</pubDate>
+				<guid>https://www.triathlon-saint-maur.fr/tags/adresse/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Bdm</title>
+				<link>https://www.triathlon-saint-maur.fr/tags/bdm/</link>
+				<pubDate>Mon, 12 Jun 2023 08:45:41 +0200</pubDate>
+				<guid>https://www.triathlon-saint-maur.fr/tags/bdm/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Choisy</title>
+				<link>https://www.triathlon-saint-maur.fr/tags/choisy/</link>
+				<pubDate>Mon, 12 Jun 2023 08:45:41 +0200</pubDate>
+				<guid>https://www.triathlon-saint-maur.fr/tags/choisy/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Entrainements</title>
+				<link>https://www.triathlon-saint-maur.fr/tags/entrainements/</link>
+				<pubDate>Mon, 12 Jun 2023 08:45:41 +0200</pubDate>
+				<guid>https://www.triathlon-saint-maur.fr/tags/entrainements/</guid>
+				<description></description>
+			</item>
+	</channel>
 </rss>
